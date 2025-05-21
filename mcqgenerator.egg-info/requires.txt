@@ -1,8 +1,5 @@
 openai
 langchain
-huggingface-hub
-streamlit
 python-dotenv
+streamlit
 PyPDF2
-
--e .
